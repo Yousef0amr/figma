@@ -6,9 +6,9 @@ import twitterImage from '../../public/twitter.png'
 const Footer = () => {
     return (
         <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center mt-[120px] mb-[120px]">
-            <div className='flex  gap-[100px]'>
-                <p className='text-white text-6xl  '>Etiam et id tincidunt faucibus mollis a sociis pretium fermentum quis magna faucibus lacus.</p>
-                <div className='flex gap-[120px]'>
+            <div className='flex  gap-[120px]'>
+                <p className='text-white text-4xl leading-12  '>Etiam et id tincidunt faucibus mollis a sociis pretium fermentum quis magna faucibus lacus.</p>
+                <div className='flex gap-[100px]'>
                     <div className='flex flex-col gap-12 items-start'>
                         <span className='text-white text-4xl'>Marketplace</span>
                         <ul className='text-[#D7D7D7] flex flex-col gap-4    text-[24px]'>
